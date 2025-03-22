@@ -12,4 +12,6 @@ marcusolsson-calendar-panel @ 2.5.0
 ```
 
 ## Screenshot:
+This is full screen - kiosk mode dashboard, as I have this accesible on my tablets :)
+
 ![TrueNAS Grafana Dashboard](TrueNAS_Grafana_Dashboard.png)
